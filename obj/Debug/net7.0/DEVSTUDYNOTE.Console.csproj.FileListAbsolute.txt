@@ -1,0 +1,15 @@
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\bin\Debug\net7.0\DEVSTUDYNOTE.Console.exe
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\bin\Debug\net7.0\DEVSTUDYNOTE.Console.deps.json
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\bin\Debug\net7.0\DEVSTUDYNOTE.Console.runtimeconfig.json
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\bin\Debug\net7.0\DEVSTUDYNOTE.Console.dll
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\bin\Debug\net7.0\DEVSTUDYNOTE.Console.pdb
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.csproj.AssemblyReference.cache
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.AssemblyInfoInputs.cache
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.AssemblyInfo.cs
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.csproj.CoreCompileInputs.cache
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.dll
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\refint\DEVSTUDYNOTE.Console.dll
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.pdb
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\DEVSTUDYNOTE.Console.genruntimeconfig.cache
+C:\DEVSTUDY\DEVSTUDYNOTE.Console\obj\Debug\net7.0\ref\DEVSTUDYNOTE.Console.dll
